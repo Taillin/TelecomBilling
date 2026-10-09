@@ -1,0 +1,14 @@
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.AssemblyInfoInputs.cache
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.AssemblyInfo.cs
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.csproj.CoreCompileInputs.cache
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\bin\Debug\net10.0\TelecomBilling.exe
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\bin\Debug\net10.0\TelecomBilling.deps.json
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\bin\Debug\net10.0\TelecomBilling.runtimeconfig.json
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\bin\Debug\net10.0\TelecomBilling.dll
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\bin\Debug\net10.0\TelecomBilling.pdb
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.dll
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\refint\TelecomBilling.dll
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.pdb
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\TelecomBilling.genruntimeconfig.cache
+C:\Users\kaeed\Downloads\Projects\Functional Programming\TelecomBillingSolution\TelecomBilling\obj\Debug\net10.0\ref\TelecomBilling.dll

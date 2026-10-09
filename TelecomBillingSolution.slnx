@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TelecomBilling.tests/TelecomBilling.Tests.csproj" />
+  <Project Path="TelecomBilling/TelecomBilling.csproj" />
+</Solution>
